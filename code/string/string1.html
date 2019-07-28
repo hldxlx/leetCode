@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+//    let reverse = (str) => {
+//        let arr = str.split(" ");
+//        let result = arr.map((item) => {
+//          return item.split("").reverse().join("")
+//        })
+//        return result.join(" ")
+//    }
+//    let res = reverse("jkskfh kko jjk");
+//    console.log(res)
+
+
+    //优雅点
+//        let reverse = (str) => {
+//          return  result = str.split(" ").map((item) => {
+//            return item.split("").reverse().join("")
+//          }).join(" ")
+//        }
+//        let res = reverse("jkskfh kko jbk");
+//        console.log(res)
+
+
+//        let reverse = (str) => {
+//          return  result = str.split(/\s/g).map((item) => {
+//            return item.split("").reverse().join("")
+//          }).join(" ")
+//        }
+//        let res = reverse("jkskfh kpo jbk");
+//        console.log(res)
+
+        let reverse = (str) => {
+          return  result = str.match(/[\w']+/g).map((item) => {
+            return item.split("").reverse().join("")
+          }).join(" ")
+        }
+        let res = reverse("jkskf'h kpo jbk");
+        console.log(res)
+</script>
+</body>
+</html>
