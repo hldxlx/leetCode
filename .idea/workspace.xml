@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87413db5-a411-4d61-b639-9712a199c0af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/sort/sort2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/sort/sort3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/sort/sort4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/sort/sort5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.dev.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/sort/sort1.html" afterPath="$PROJECT_DIR$/code/sort/sort1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,91 +21,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="recur.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/recur.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recur2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/recur2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="56" column="65" lean-forward="false" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/array/array2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/array/array3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/array/array4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sort1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/sort/sort1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="190">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sort3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/sort/sort3.html">
+      <file leaf-file-name="sort5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/sort/sort5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="446">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sort2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/sort/sort2.html">
+      <file leaf-file-name="sort4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/sort/sort4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="231">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/string/string1.html">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="32" column="32" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.dev.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1564659572775" expanded="true" signature="356119:356421" ph="{&quot;version&quot;: &quot;1.0.5&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="356375:356415" ph="{&quot;iconv-lite&quot;: &quot;0.4.24&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="356446:356688" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="356708:357069" ph="{&quot;version&quot;: &quot;6.5.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="356954:357063" ph="{&quot;lodash.sortby&quot;: &quot;^4.7.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357084:357361" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357320:357355" ph="{&quot;isexe&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357383:357557" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357575:357741" ph="{&quot;version&quot;: &quot;0.0.3&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357762:358020" ph="{&quot;version&quot;: &quot;1.7.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="357979:358014" ph="{&quot;errno&quot;: &quot;~0.1.7&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358039:359033" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358221:358295" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358319:359027" ph="{...}" />
+                <marker date="1564659572775" expanded="true" signature="358356:358643" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358582:358633" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358669:359019" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="358873:359009" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="359049:359211" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="359238:359612" ph="{&quot;version&quot;: &quot;2.4.1&quot;...}" />
+                <marker date="1564659572775" expanded="true" signature="359498:359606" ph="{&quot;graceful-fs&quot;: &quot;^4.1.11&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -109,8 +136,8 @@
       <file leaf-file-name="array1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/array/array1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="74">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -121,6 +148,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -141,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/test/recur/lesson1.test.js" />
         <option value="$PROJECT_DIR$/code/recur.html" />
         <option value="$PROJECT_DIR$/code/recur2.html" />
@@ -153,6 +180,14 @@
         <option value="$PROJECT_DIR$/code/sort/sort2.html" />
         <option value="$PROJECT_DIR$/code/sort/sort1.html" />
         <option value="$PROJECT_DIR$/code/sort/sort3.html" />
+        <option value="$PROJECT_DIR$/code/sort/sort4.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/webpack.dev.config.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/code/array/array5.html" />
+        <option value="$PROJECT_DIR$/code/sort/sort5.html" />
       </list>
     </option>
   </component>
@@ -172,9 +207,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="87" />
-    <option name="y" value="52" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="179" />
+    <option name="y" value="55" />
     <option name="width" value="1584" />
     <option name="height" value="977" />
   </component>
@@ -228,6 +263,11 @@
             <path>
               <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -261,6 +301,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BaiduNetdiskDownload\muke\suanfa" />
       <recent name="F:\BaiduNetdiskDownload\muke\suanfa\test\recur" />
       <recent name="F:\BaiduNetdiskDownload\muke\suanfa\code\recur" />
     </key>
@@ -372,7 +413,7 @@
       <workItem from="1564300882901" duration="9612000" />
       <workItem from="1564399691009" duration="8570000" />
       <workItem from="1564495251594" duration="18000" />
-      <workItem from="1564644884947" duration="2981000" />
+      <workItem from="1564644884947" duration="10911000" />
     </task>
     <task id="LOCAL-00001" summary="string">
       <created>1564324301243</created>
@@ -409,14 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564494937389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="冒泡、选择、奇偶排序">
+      <created>1564649608867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564649608867</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21181000" />
+    <option name="totallyTimeSpent" value="29111000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="179" y="55" width="1584" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -428,10 +476,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12556562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.094710946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1223176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15099338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -458,7 +506,8 @@
     <MESSAGE value="array电话号码组合" />
     <MESSAGE value="array卡牌分组" />
     <MESSAGE value="种花问题和格雷编码" />
-    <option name="LAST_COMMIT_MESSAGE" value="种花问题和格雷编码" />
+    <MESSAGE value="冒泡、选择、奇偶排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="冒泡、选择、奇偶排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -679,13 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -733,14 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/array/array1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/array/array2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -773,18 +807,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/sort/sort1.html">
+    <entry file="file://$PROJECT_DIR$/code/sort/sort3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/sort/sort3.html">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1564659572775" expanded="true" signature="356119:356421" ph="{&quot;version&quot;: &quot;1.0.5&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="356375:356415" ph="{&quot;iconv-lite&quot;: &quot;0.4.24&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="356446:356688" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="356708:357069" ph="{&quot;version&quot;: &quot;6.5.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="356954:357063" ph="{&quot;lodash.sortby&quot;: &quot;^4.7.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357084:357361" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357320:357355" ph="{&quot;isexe&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357383:357557" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357575:357741" ph="{&quot;version&quot;: &quot;0.0.3&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357762:358020" ph="{&quot;version&quot;: &quot;1.7.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="357979:358014" ph="{&quot;errno&quot;: &quot;~0.1.7&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358039:359033" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358221:358295" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358319:359027" ph="{...}" />
+            <marker date="1564659572775" expanded="true" signature="358356:358643" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358582:358633" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358669:359019" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="358873:359009" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="359049:359211" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="359238:359612" ph="{&quot;version&quot;: &quot;2.4.1&quot;...}" />
+            <marker date="1564659572775" expanded="true" signature="359498:359606" ph="{&quot;graceful-fs&quot;: &quot;^4.1.11&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="32" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/array/array5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/array/array1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/sort/sort1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/sort/sort4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/sort/sort5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>

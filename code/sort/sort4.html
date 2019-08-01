@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>找第几个最大值</title>
+</head>
+<body>
+<script type="text/javascript">
+    //方式1
+//  let sort4 = (k,arr) =>{
+//    return arr.sort((a,b) => b-a)[k-1];
+//  }
+//  console.log(sort4(2,[1, 9, 5, 3, 4]))
+
+    //方式2
+    let sort4 = (arr,k) =>{
+      let len = arr.length -1;
+      for(let i=len,tmp;i>len-k;i--){
+        for(let j=0;j<i;j++){
+          if(arr[j]>arr[j+1]){
+            tmp = arr[j];
+            arr[j] = arr[j+1];
+            arr[j+1] = tmp;
+          }
+        }
+      }
+      return arr[len-(k-1)];
+    }
+    console.log(sort4([1, 9, 5, 3, 4],2))
+</script>
+</body>
+</html>
