@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>奇偶排序</title>
+</head>
+<body>
+<script type="text/javascript">
+  let sort3 = (arr) =>{
+    //降序（b-a）
+    arr.sort((a,b) => b-a);
+    let res = [];
+    let odd = 1;
+    let even = 0;
+    arr.forEach(item =>{
+      if(item %2 === 1){
+        res[odd] = item;
+        odd += 2
+      }else{
+        res[even] = item;
+        even += 2
+      }
+    })
+    return arr;
+  }
+  console.log(sort3([1, 8, 2, 3]))
+</script>
+</body>
+</html>
