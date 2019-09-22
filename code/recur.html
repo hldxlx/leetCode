@@ -7,25 +7,48 @@
 <body>
     <script type="text/javascript">
 
-        let recur = (str) =>{
+//        let recur = (str) =>{
+//          let res = [];
+//          let search = (cur,sub) =>{
+//            if(cur.length == 4 && cur.join("") === str){
+//              res.push(cur.join(""));
+//            }else{
+//                for(let i = 0,len = Math.min(3,sub.length),tmp;i < len;i++){
+//                  tmp = sub.substr(0,i+1);
+//                  if(tmp < 256){
+//                    search(cur.concat([tmp]),sub.substr(i+1))
+//                  }
+//                }
+//            }
+//          }
+//          search([],str);
+//          return res;
+//        }
+//        var r = recur("25525511135");
+//        console.log(r,'====r');
+
+
+        let cc = (str) =>{
           let res = [];
           let search = (cur,sub) =>{
             if(cur.length == 4 && cur.join("") === str){
               res.push(cur.join(""));
             }else{
-                for(let i = 0,len = Math.min(3,sub.length),tmp;i < len;i++){
-                  tmp = sub.substr(0,i+1);
-                  if(tmp < 256){
-                    search(cur.concat([tmp]),sub.substr(i+1))
-                  }
+              for(let i=0,len = Math.min(3,sub.length),tmp;i<len;i++){
+                tmp = sub.substr(0,i+1);
+                if(tmp < 256){
+                  search(cur.concat([tmp]),sub.substr(i+1));
                 }
+              }
             }
           }
           search([],str);
           return res;
         }
-        var r = recur("25525511135");
+        var r = cc("25525511135");
         console.log(r,'====r');
+
+
 
 
     </script>

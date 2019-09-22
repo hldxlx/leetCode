@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        let recur3 = (str,words) =>{
+          let num = words.length;
+          let result = [];
+          let range = (r,_arr) =>{
+            if(r.length === num){
+              result.push(r)
+            }else{
+              _arr.forEach((item,idx) =>{
+                let tmp = [].concat(_arr);
+                tmp.splice(idx,1);
+                range(r.concat(item),tmp);
+              })
+            }
+          }
+          range([],words);
+          return result.map((item) =>{
+            return str.indexOf(item.join(""));
+          }).filter((item) => item !== -1).sort();
+        }
+        console.log(recur3("barfoobarfoothefoobarman",['foo', 'bar']));
+    </script>
+</body>
+</html>

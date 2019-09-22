@@ -1,3 +1,9 @@
+//suanfa的{
+//  "presets": ["@babel/preset-env"]
+//}
+
+//设计模式的
 {
-  "presets": ["@babel/preset-env"]
+  "presets": ["es2015", "latest"],
+  "plugins": []
 }
